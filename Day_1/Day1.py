@@ -24,3 +24,8 @@ else:    print("Invalid operator")
 celcius = float(input("Enter the temperature in Celsius : "))
 fahrenheit = (celcius * 9/5) + 32
 print("The temperature in Fahrenheit is : " + str(fahrenheit))
+
+
+
+
+
